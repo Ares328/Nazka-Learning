@@ -1,0 +1,4588 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-06-02T07:47:52Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/851033752",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9896439,
+          49.5447492
+        ]
+      },
+      "id": "node/851033752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1790036361",
+        "addr:housenumber": "11",
+        "addr:postcode": "08640",
+        "addr:street": "Першотравнева вулиця",
+        "amenity": "townhall",
+        "name": "Малосолтанівський старостинський округ",
+        "operator": "Калинівська територіальна громада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1434012,
+          50.1785955
+        ]
+      },
+      "id": "node/1790036361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2179979936",
+        "addr:housenumber": "42",
+        "addr:postcode": "299805",
+        "addr:street": "Тюкова улица",
+        "amenity": "townhall",
+        "name": "Сельсовет",
+        "name:ru": "Сельсовет",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7732859,
+          44.4446246
+        ]
+      },
+      "id": "node/2179979936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2367613812",
+        "addr:housenumber": "78",
+        "addr:postcode": "90043",
+        "addr:street": "Шевченка вулиця",
+        "amenity": "townhall",
+        "name": "Колочавська сільска рада",
+        "townhall:type": "village",
+        "website": "https://kolochavska-gromada.gov.ua/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.697172,
+          48.4267359
+        ]
+      },
+      "id": "node/2367613812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2519991026",
+        "amenity": "townhall",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.234148,
+          50.7686823
+        ]
+      },
+      "id": "node/2519991026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2715913002",
+        "addr:housenumber": "1",
+        "addr:postcode": "08030",
+        "addr:street": "Кавказька вулиця",
+        "disused:amenity": "townhall",
+        "name": "Плахтянська сільська рада",
+        "name:uk": "Плахтянська сільська рада",
+        "official_name": "Плахтянська сільська рада",
+        "townhall:type": "village",
+        "website": "http://plahtyanka.rada.org.ua/",
+        "wikidata": "Q16711715",
+        "wikipedia": "uk:Плахтянська сільська рада"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9066436,
+          50.5150937
+        ]
+      },
+      "id": "node/2715913002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2716090839",
+        "addr:housenumber": "114",
+        "addr:street": "Меля вулиця",
+        "amenity": "townhall",
+        "name": "Староста",
+        "old_name": "Андріївська сільська рада",
+        "old_name:ru": "Сельский совет",
+        "old_name:uk": "Андріївська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8322289,
+          50.5508506
+        ]
+      },
+      "id": "node/2716090839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2882764810",
+        "addr:housenumber": "1",
+        "disused:amenity": "townhall",
+        "name": "Дружнянська сільська рада",
+        "official_name": "Дружнянська сільська рада",
+        "townhall:type": "village",
+        "wikidata": "Q20076508",
+        "wikipedia": "uk:Дружнянська сільська рада"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8707293,
+          50.6270734
+        ]
+      },
+      "id": "node/2882764810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2882764812",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "name:ru": "Сельский совет",
+        "name:uk": "Сільська рада",
+        "official_name": "Феневицька сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0687498,
+          50.8501549
+        ]
+      },
+      "id": "node/2882764812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3080335933",
+        "addr:housenumber": "27",
+        "addr:postcode": "08020",
+        "addr:street": "Миру вулиця",
+        "amenity": "townhall",
+        "name": "Комарівська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5219587,
+          50.5065158
+        ]
+      },
+      "id": "node/3080335933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3080783119",
+        "amenity": "townhall",
+        "name": "Доробратівська сільська рада",
+        "name:en": "Dorobratovo Village Council",
+        "name:uk": "Доробратівська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8977994,
+          48.3526286
+        ]
+      },
+      "id": "node/3080783119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3110121633",
+        "disused:amenity": "townhall",
+        "image": "https://commons.wikimedia.org/wiki/File:Забуянська_сільська_рада_-_f2.JPG",
+        "name": "Забуянська сільська рада",
+        "official_name": "Забуянська сільська рада",
+        "phone": "+380 44 783 5242",
+        "townhall:type": "village",
+        "website": "http://zabuyanska.rada.org.ua/",
+        "wikidata": "Q19753724",
+        "wikipedia": "uk:Забуянська сільська рада"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6499986,
+          50.5611915
+        ]
+      },
+      "id": "node/3110121633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3280434870",
+        "addr:housenumber": "32",
+        "addr:postcode": "17036",
+        "addr:street": "Тараса Шевченка вулиця",
+        "amenity": "townhall",
+        "building": "office",
+        "name": "Чемерський старостинський округ",
+        "operator": "Кіптівська об’єднана територіальна громада",
+        "phone": "+380 4646 35 325",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2208957,
+          51.1015245
+        ]
+      },
+      "id": "node/3280434870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3946128263",
+        "amenity": "townhall",
+        "name": "Гавришівська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6368017,
+          49.2407662
+        ]
+      },
+      "id": "node/3946128263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4181989645",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5392729,
+          48.8320323
+        ]
+      },
+      "id": "node/4181989645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4206784781",
+        "amenity": "townhall",
+        "name": "Купичівська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7179612,
+          50.9922735
+        ]
+      },
+      "id": "node/4206784781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4208153291",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6199793,
+          48.7435385
+        ]
+      },
+      "id": "node/4208153291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4448788890",
+        "addr:housenumber": "2",
+        "addr:postcode": "08750",
+        "addr:street": "Героїв Майдану вулиця",
+        "amenity": "townhall",
+        "government": "administrative",
+        "name": "Григорівська сільська рада",
+        "townhall:type": "village",
+        "website": "http://grygorivka.rada.org.ua/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6248035,
+          50.0530944
+        ]
+      },
+      "id": "node/4448788890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4463977692",
+        "addr:housenumber": "5",
+        "addr:postcode": "08122",
+        "addr:street": "Покровська вулиця",
+        "amenity": "townhall",
+        "email": "shpitki@ukr.net",
+        "government": "yes",
+        "name": "Шпитьківська сільська рада",
+        "name:uk": "Шпитьківська сільська рада",
+        "opening_hours": "Mo-Fr 09:00-13:00, 14:00-16:45",
+        "phone": "+380 4598 56 742",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1167749,
+          50.4146555
+        ]
+      },
+      "id": "node/4463977692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4469726313",
+        "amenity": "townhall",
+        "name": "Гуменська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7037217,
+          49.193446
+        ]
+      },
+      "id": "node/4469726313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4924689148",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "opening_hours": "Mo-Fr 08:30-17:00",
+        "townhall:type": "village",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8246215,
+          49.4644298
+        ]
+      },
+      "id": "node/4924689148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5028339437",
+        "amenity": "townhall",
+        "name": "Сокиринецька сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6170405,
+          49.1658979
+        ]
+      },
+      "id": "node/5028339437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5045689221",
+        "addr:housenumber": "5",
+        "addr:postcode": "08371",
+        "addr:street": "Миру вулиця",
+        "amenity": "townhall",
+        "name": "Сеньківський старостинський округ",
+        "operator": "Бориспільська міська територіальна громада",
+        "townhall:type": "village",
+        "website": "https://borispol-rada.gov.ua/itemlist/category/341-starostynski-okruhy-boryspilskoi-miskoi-terytorialnoi-hromady.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0867804,
+          50.4389184
+        ]
+      },
+      "id": "node/5045689221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5135360855",
+        "amenity": "townhall",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6499584,
+          49.7017899
+        ]
+      },
+      "id": "node/5135360855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5137087881",
+        "amenity": "townhall",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9147995,
+          49.9109476
+        ]
+      },
+      "id": "node/5137087881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5157849970",
+        "amenity": "townhall",
+        "name": "Великобийганська сільська рада",
+        "name:en": "Velyka Byihan Village Council",
+        "name:hu": "Községháza",
+        "name:uk": "Великобийганська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5809244,
+          48.2487841
+        ]
+      },
+      "id": "node/5157849970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5189485232",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6659354,
+          49.0218996
+        ]
+      },
+      "id": "node/5189485232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5744889301",
+        "addr:housenumber": "57",
+        "addr:postcode": "08622",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Плесецький старостинський округ",
+        "townhall:type": "village",
+        "website": "https://www.facebook.com/plesetske/",
+        "wikidata": "Q20091335",
+        "wikipedia": "uk:Плесецька сільська рада"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.120068,
+          50.2190919
+        ]
+      },
+      "id": "node/5744889301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5752032021",
+        "addr:housenumber": "62",
+        "addr:postcode": "08330",
+        "addr:street": "Гоголя вулиця",
+        "amenity": "townhall",
+        "description": "Сельсовет",
+        "name": "Дударківський старостинський пункт Пристоличної сільської ради",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9459953,
+          50.4443579
+        ]
+      },
+      "id": "node/5752032021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5875412078",
+        "amenity": "townhall",
+        "name": "Зіньківська сільська рада",
+        "townhall:type": "village",
+        "website": "https://zinkiv.km.ua",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0733891,
+          49.0921707
+        ]
+      },
+      "id": "node/5875412078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6246040085",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "name:ru": "Сельсовет",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7338215,
+          49.2442394
+        ]
+      },
+      "id": "node/6246040085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6375843123",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9579331,
+          49.2402677
+        ]
+      },
+      "id": "node/6375843123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7042165152",
+        "amenity": "townhall",
+        "name": "Созонівська сільська рада",
+        "name:en": "Sozonivka village council",
+        "name:ru": "Созоновской сельский совет",
+        "name:uk": "Созонівська сільська рада",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "phone": "+380 522 31 5409",
+        "townhall:type": "village",
+        "website": "https://rada.info/rada/05473513/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3291885,
+          48.5670536
+        ]
+      },
+      "id": "node/7042165152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529134380",
+        "addr:housenumber": "4",
+        "addr:postcode": "70050",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Кам’янська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3965961,
+          47.8750132
+        ]
+      },
+      "id": "node/7529134380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529268486",
+        "amenity": "townhall",
+        "name": "Комунальне підприємство Кам`янської селещної ради",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3979913,
+          47.8725511
+        ]
+      },
+      "id": "node/7529268486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7655888101",
+        "addr:housenumber": "125",
+        "addr:postcode": "08040",
+        "addr:street": "Миру вулиця",
+        "amenity": "townhall",
+        "name": "Староста",
+        "old_name": "Ситняківська сільська рада",
+        "phone": "+380 4578 33 431",
+        "townhall:type": "village",
+        "website": "https://sytnyaky.at.ua/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7030021,
+          50.4162043
+        ]
+      },
+      "id": "node/7655888101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7683662178",
+        "addr:housenumber": "201",
+        "addr:postcode": "17071",
+        "addr:street": "Київська вулиця",
+        "amenity": "townhall",
+        "name": "Євминська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8203272,
+          50.8440033
+        ]
+      },
+      "id": "node/7683662178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7684698325",
+        "addr:postcode": "17073",
+        "amenity": "townhall",
+        "name": "Крехаївська сільська рада",
+        "name:ru": "Крехаевский сельский совет",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.784514,
+          50.8034033
+        ]
+      },
+      "id": "node/7684698325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7687026113",
+        "amenity": "townhall",
+        "name": "Староста",
+        "old_name": "Липівська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8087194,
+          50.5112618
+        ]
+      },
+      "id": "node/7687026113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7717262882",
+        "addr:housenumber": "57",
+        "addr:postcode": "08033",
+        "addr:street": "Жовтнева вулиця",
+        "amenity": "townhall",
+        "mapillary": "iACTc1ojyWE7zLWVb5lLTF",
+        "name": "Староста",
+        "old_name": "Копилівська сільська рада",
+        "phone": "+380 4578 30 231",
+        "townhall:type": "village",
+        "website": "https://www.facebook.com/kopuliv/",
+        "wikidata": "Q16702542",
+        "wikipedia": "uk:Копилівська сільська рада"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8899945,
+          50.4107907
+        ]
+      },
+      "id": "node/7717262882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7725256478",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2889628,
+          48.9007534
+        ]
+      },
+      "id": "node/7725256478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7730566797",
+        "addr:housenumber": "11",
+        "addr:postcode": "08024",
+        "addr:street": "Миру вулиця",
+        "amenity": "townhall",
+        "name": "Небелицька сільська рада",
+        "phone": "+380 4578 42 835",
+        "townhall:type": "village",
+        "wikidata": "Q16708832",
+        "wikipedia": "uk:Небелицька сільська рада"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.605639,
+          50.4121107
+        ]
+      },
+      "id": "node/7730566797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7741758905",
+        "addr:housenumber": "117а",
+        "addr:postcode": "08022",
+        "addr:street": "Центральна вулиця",
+        "disused:amenity": "townhall",
+        "name": "Наливайківська сільська рада",
+        "townhall:type": "village",
+        "website": "http://nalyvaykivka.rada.org.ua/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7130764,
+          50.4840162
+        ]
+      },
+      "id": "node/7741758905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7743520749",
+        "addr:housenumber": "4",
+        "amenity": "townhall",
+        "name": "Ніжиловицька сільська рада",
+        "phone": "+380 4578 41 139",
+        "townhall:type": "village",
+        "website": "https://rada.info/rada/04362390"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6417215,
+          50.4843019
+        ]
+      },
+      "id": "node/7743520749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7744413098",
+        "addr:housenumber": "49а",
+        "addr:postcode": "08055",
+        "addr:street": "Миру вулиця",
+        "amenity": "townhall",
+        "name": "Вільнянська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7806893,
+          50.2148442
+        ]
+      },
+      "id": "node/7744413098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7744413115",
+        "addr:housenumber": "3",
+        "addr:postcode": "08510",
+        "addr:street": "30-річчя Перемоги вулиця",
+        "amenity": "townhall",
+        "name": "Томашівська громада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8275422,
+          50.1991476
+        ]
+      },
+      "id": "node/7744413115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7744531408",
+        "addr:housenumber": "3",
+        "addr:postcode": "08071",
+        "addr:street": "Шевченка вулиця",
+        "amenity": "townhall",
+        "name": "Мостищанська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0333683,
+          50.2933408
+        ]
+      },
+      "id": "node/7744531408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7785212499",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1606683,
+          48.8936981
+        ]
+      },
+      "id": "node/7785212499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7804319604",
+        "disused:amenity": "townhall",
+        "name": "Клавдієво-Тарасівська селищна рада",
+        "townhall:type": "village",
+        "website": "http://klsr.gov.ua/",
+        "wikidata": "Q20077705",
+        "wikipedia": "uk:Клавдієво-Тарасівська селищна рада"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0088871,
+          50.5800137
+        ]
+      },
+      "id": "node/7804319604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7806592688",
+        "addr:housenumber": "49",
+        "addr:postcode": "08464",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Горбанівська сільська рада",
+        "townhall:type": "village",
+        "website": "https://rada.info/rada/04361479/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8855568,
+          50.0050395
+        ]
+      },
+      "id": "node/7806592688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7811049241",
+        "addr:housenumber": "2",
+        "addr:postcode": "19140",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village",
+        "website": "http://kopijuvatsk.monrada.gov.ua/",
+        "wikidata": "Q21681542",
+        "wikipedia": "uk:Копіюватська сільська рада (Монастирищенський район)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9752518,
+          48.9969967
+        ]
+      },
+      "id": "node/7811049241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7814097536",
+        "addr:housenumber": "1",
+        "addr:postcode": "08104",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "government": "administrative",
+        "name": "Мироцька сільська рада",
+        "townhall:type": "village",
+        "website": "https://mirockoe.org.ua/",
+        "wikidata": "Q20082272",
+        "wikipedia": "uk:Мироцька сільська рада"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1149593,
+          50.5772824
+        ]
+      },
+      "id": "node/7814097536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7820273595",
+        "addr:housenumber": "1",
+        "addr:postcode": "07852",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Микулицька сільська Рада",
+        "townhall:type": "village",
+        "website": "http://mykulychi-rada.gov.ua/",
+        "wikidata": "Q20082238",
+        "wikipedia": "uk:Микулицька сільська рада"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0695646,
+          50.5745986
+        ]
+      },
+      "id": "node/7820273595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7829381778",
+        "addr:housenumber": "106",
+        "addr:postcode": "09245",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village",
+        "wikidata": "Q20093481",
+        "wikipedia": "uk:Ставівська сільська рада"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6740312,
+          49.8569236
+        ]
+      },
+      "id": "node/7829381778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7829967788",
+        "addr:housenumber": "42",
+        "addr:postcode": "09712",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Мисайлівська сільська рада",
+        "townhall:type": "village",
+        "wikidata": "Q19682461",
+        "wikipedia": "uk:Мисайлівська сільська рада"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8078546,
+          49.5636222
+        ]
+      },
+      "id": "node/7829967788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7830802154",
+        "addr:housenumber": "6а",
+        "addr:postcode": "09184",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village",
+        "website": "http://potiivka.rada.org.ua/",
+        "wikidata": "Q12142919",
+        "wikipedia": "uk:Потіївська сільська рада (Білоцерківський район)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2284405,
+          49.6143128
+        ]
+      },
+      "id": "node/7830802154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7832222753",
+        "addr:housenumber": "2",
+        "addr:postcode": "09831",
+        "addr:street": "Степова вулиця",
+        "amenity": "townhall",
+        "name": "Дібрівська сільська рада",
+        "townhall:type": "village",
+        "website": "https://rada.info/rada/04361143/",
+        "wikidata": "Q19759013",
+        "wikipedia": "uk:Дібрівська сільська рада (Тетіївський район)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7663867,
+          49.322274
+        ]
+      },
+      "id": "node/7832222753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7832899939",
+        "addr:housenumber": "4",
+        "addr:postcode": "09832",
+        "addr:street": "Лесі Українки вулиця",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7920577,
+          49.3080024
+        ]
+      },
+      "id": "node/7832899939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841332118",
+        "addr:housenumber": "18/1",
+        "addr:postcode": "09631",
+        "addr:street": "Шевченка вулиця",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village",
+        "website": "https://rada.info/rada/04361870/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3869936,
+          49.6794311
+        ]
+      },
+      "id": "node/7841332118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843416206",
+        "addr:housenumber": "17а",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village",
+        "wikidata": "Q12123781",
+        "wikipedia": "uk:Михайлівська сільська рада (Тетіївський район)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5523965,
+          49.3698931
+        ]
+      },
+      "id": "node/7843416206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7850456800",
+        "addr:housenumber": "15",
+        "addr:postcode": "07751",
+        "addr:street": "Андрія Бобира вулиця",
+        "amenity": "townhall",
+        "name": "Ничипорівська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8099582,
+          50.1953107
+        ]
+      },
+      "id": "node/7850456800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7850456806",
+        "addr:housenumber": "14",
+        "addr:postcode": "08811",
+        "addr:street": "Бузкова вулиця",
+        "amenity": "townhall",
+        "name": "Піївська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1243058,
+          49.8750618
+        ]
+      },
+      "id": "node/7850456806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7859359938",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3896213,
+          48.8780821
+        ]
+      },
+      "id": "node/7859359938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7861246565",
+        "addr:housenumber": "2",
+        "addr:postcode": "08060",
+        "addr:street": "Василя Довгича вулиця",
+        "amenity": "townhall",
+        "name": "Мотижинська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9339374,
+          50.3822631
+        ]
+      },
+      "id": "node/7861246565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7867657460",
+        "addr:housenumber": "2",
+        "addr:postcode": "07562",
+        "addr:street": "Шевченка вулиця",
+        "amenity": "townhall",
+        "name": "Масківецька сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3337319,
+          50.2253286
+        ]
+      },
+      "id": "node/7867657460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7873807825",
+        "amenity": "townhall",
+        "name": "Старостинський округ села Вишеньки",
+        "name:uk": "Старостинський округ села Вишеньки",
+        "old_name": "Вишеньківська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7184353,
+          50.3050794
+        ]
+      },
+      "id": "node/7873807825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7875440945",
+        "addr:housenumber": "145",
+        "addr:postcode": "07211",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Мусійківська сільська рада",
+        "phone": "+380 4591 25 244",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7821671,
+          51.0503932
+        ]
+      },
+      "id": "node/7875440945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7881023660",
+        "amenity": "townhall",
+        "name": "Калинівська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6464909,
+          47.011205
+        ]
+      },
+      "id": "node/7881023660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7884421187",
+        "addr:housenumber": "57",
+        "addr:postcode": "09310",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9429432,
+          49.6383373
+        ]
+      },
+      "id": "node/7884421187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7884460822",
+        "addr:housenumber": "12",
+        "addr:postcode": "09034",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village",
+        "website": "https://shamraivka-rada.gov.ua/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8330919,
+          49.7732002
+        ]
+      },
+      "id": "node/7884460822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7885241419",
+        "addr:housenumber": "75",
+        "addr:postcode": "09145",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Іванівська сільська рада",
+        "townhall:type": "village",
+        "website": "http://ivanivca.selo.org.ua/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3984554,
+          49.8680752
+        ]
+      },
+      "id": "node/7885241419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7887107077",
+        "addr:housenumber": "12а",
+        "addr:postcode": "09138",
+        "addr:street": "Олексія Цмокна вулиця",
+        "amenity": "townhall",
+        "name": "Малоантонівська сільська рада",
+        "phone": "+380 4563 24 038",
+        "townhall:type": "village",
+        "wikidata": "Q12120885",
+        "wikipedia": "uk:Малоантонівська сільська рада"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3630231,
+          49.8573247
+        ]
+      },
+      "id": "node/7887107077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7887711499",
+        "addr:housenumber": "17",
+        "addr:postcode": "09530",
+        "addr:street": "Садова вулиця",
+        "amenity": "townhall",
+        "name": "Cільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2971,
+          49.4741069
+        ]
+      },
+      "id": "node/7887711499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7893869150",
+        "addr:housenumber": "1",
+        "addr:postcode": "09151",
+        "addr:street": "Ярослава Мудрого вулиця",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village",
+        "website": "https://rada.info/rada/04363053/",
+        "wikidata": "Q12121940",
+        "wikipedia": "uk:Матюшівська сільська рада"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8952026,
+          49.7744512
+        ]
+      },
+      "id": "node/7893869150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7896936391",
+        "addr:housenumber": "4",
+        "addr:postcode": "09152",
+        "addr:street": "Центральна площа",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9397907,
+          49.768904
+        ]
+      },
+      "id": "node/7896936391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7896936443",
+        "addr:housenumber": "119в",
+        "addr:postcode": "09131",
+        "addr:street": "Миру вулиця",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9490333,
+          49.8158172
+        ]
+      },
+      "id": "node/7896936443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7906463799",
+        "addr:housenumber": "39",
+        "addr:postcode": "09135",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Глушківська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2142453,
+          49.8848388
+        ]
+      },
+      "id": "node/7906463799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7906697803",
+        "addr:housenumber": "7",
+        "addr:postcode": "09134",
+        "addr:street": "Молодіжна вулиця",
+        "amenity": "townhall",
+        "name": "Храпачівська сільська рада",
+        "townhall:type": "village",
+        "wikidata": "Q19689946",
+        "wikipedia": "uk:Храпачівська сільська рада"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2355263,
+          49.8674625
+        ]
+      },
+      "id": "node/7906697803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7907911606",
+        "addr:housenumber": "11",
+        "addr:postcode": "09840",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8765925,
+          49.3872586
+        ]
+      },
+      "id": "node/7907911606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7911125733",
+        "addr:housenumber": "2",
+        "addr:postcode": "09620",
+        "addr:street": "Шевченка вулиця",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6422987,
+          49.8073042
+        ]
+      },
+      "id": "node/7911125733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7911162167",
+        "addr:housenumber": "61",
+        "addr:postcode": "09622",
+        "addr:street": "Молодіжна вулиця",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village",
+        "wikidata": "Q20093920",
+        "wikipedia": "uk:Телешівська сільська рада"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6256958,
+          49.7577188
+        ]
+      },
+      "id": "node/7911162167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7917597594",
+        "addr:housenumber": "1",
+        "addr:postcode": "08110",
+        "addr:street": "Шкільна вулиця",
+        "amenity": "townhall",
+        "name": "Староста",
+        "old_name": "Михайлівсько-Рубежівська сільска рада",
+        "townhall:type": "village",
+        "website": "http://mrub.rada.org.ua/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1403139,
+          50.5234996
+        ]
+      },
+      "id": "node/7917597594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7921460426",
+        "addr:housenumber": "2",
+        "addr:postcode": "08173",
+        "addr:street": "Панаса Мирного вулиця",
+        "amenity": "townhall",
+        "name": "Ходосівська сільська рада",
+        "townhall:type": "village",
+        "website": "http://www.hodrada.gov.ua/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.519259,
+          50.2768544
+        ]
+      },
+      "id": "node/7921460426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7921460439",
+        "addr:housenumber": "8",
+        "addr:postcode": "09141",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Василівська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4752725,
+          49.9663557
+        ]
+      },
+      "id": "node/7921460439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7921555775",
+        "amenity": "townhall",
+        "name": "Усівська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6808116,
+          50.5154549
+        ]
+      },
+      "id": "node/7921555775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7930589658",
+        "amenity": "townhall",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7199922,
+          50.4117468
+        ]
+      },
+      "id": "node/7930589658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7935671090",
+        "addr:housenumber": "59",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Маковищанська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8684193,
+          50.4554624
+        ]
+      },
+      "id": "node/7935671090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7935754023",
+        "amenity": "townhall",
+        "name": "Староста",
+        "old_name": "Мар'янівська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7201877,
+          50.3372325
+        ]
+      },
+      "id": "node/7935754023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7937113769",
+        "addr:housenumber": "40",
+        "addr:postcode": "08054",
+        "addr:street": "Соборна вулиця",
+        "amenity": "townhall",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8386065,
+          50.2156413
+        ]
+      },
+      "id": "node/7937113769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7938079541",
+        "addr:housenumber": "2",
+        "addr:postcode": "08073",
+        "addr:street": "Миру вулиця",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village",
+        "website": "http://yablunivka.rada.org.ua/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9814724,
+          50.2574373
+        ]
+      },
+      "id": "node/7938079541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7942748876",
+        "addr:housenumber": "4",
+        "addr:postcode": "08170",
+        "addr:street": "Боярська вулиця",
+        "amenity": "townhall",
+        "name": "Віто-Поштова сільська рада",
+        "office": "government",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3756987,
+          50.314594
+        ]
+      },
+      "id": "node/7942748876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7944356879",
+        "amenity": "townhall",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0545984,
+          50.2725731
+        ]
+      },
+      "id": "node/7944356879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7944365386",
+        "addr:housenumber": "120/1",
+        "addr:postcode": "08618",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Данилівський старостинський округ",
+        "operator": "Калинівська ОТГ",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2191185,
+          50.2482391
+        ]
+      },
+      "id": "node/7944365386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7948732188",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.544187,
+          48.6913876
+        ]
+      },
+      "id": "node/7948732188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7950668695",
+        "addr:street": "Соборна вулиця",
+        "amenity": "townhall",
+        "name": "Гореницька сільська рада",
+        "name:ru": "Горенический сельский совет",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2034979,
+          50.4128946
+        ]
+      },
+      "id": "node/7950668695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7954358798",
+        "addr:housenumber": "39",
+        "addr:street": "Лесі Українки вулиця",
+        "amenity": "townhall",
+        "name": "Петрушківська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1659653,
+          50.4205662
+        ]
+      },
+      "id": "node/7954358798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7999038759",
+        "addr:housenumber": "1",
+        "addr:postcode": "08522",
+        "addr:street": "Шкільна вулиця",
+        "amenity": "townhall",
+        "name": "Мотовилівський старостинський округ",
+        "operator": "Фастівська громада",
+        "townhall:type": "village",
+        "website": "http://vmotovylivka.rada.org.ua/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.082713,
+          50.1452448
+        ]
+      },
+      "id": "node/7999038759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8003140082",
+        "addr:postcode": "08553",
+        "amenity": "townhall",
+        "name": "Пилипівська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9222037,
+          49.9951922
+        ]
+      },
+      "id": "node/8003140082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8003718210",
+        "addr:housenumber": "10",
+        "addr:postcode": "08524",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Мотовилівськослобідська сільська рада",
+        "townhall:type": "village",
+        "website": "http://m-slobidka.rada.org.ua/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0425093,
+          50.1304158
+        ]
+      },
+      "id": "node/8003718210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8003718237",
+        "addr:housenumber": "18",
+        "addr:postcode": "08533",
+        "addr:street": "Кільцева вулиця",
+        "amenity": "townhall",
+        "name": "Дмитрівська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.736737,
+          50.0160026
+        ]
+      },
+      "id": "node/8003718237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8004808551",
+        "addr:housenumber": "9",
+        "addr:postcode": "08530",
+        "addr:street": "Шкільна вулиця",
+        "amenity": "townhall",
+        "name": "Скригалівська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7270661,
+          50.0882529
+        ]
+      },
+      "id": "node/8004808551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8004808563",
+        "addr:street": "Дружби вулиця",
+        "amenity": "townhall",
+        "name": "Фастівецька сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0428713,
+          50.0557322
+        ]
+      },
+      "id": "node/8004808563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8038281301",
+        "amenity": "townhall",
+        "name": "Калитянська селищна рада об'єднаної територіальної громади",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0233366,
+          50.7474549
+        ]
+      },
+      "id": "node/8038281301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8040266630",
+        "amenity": "townhall",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7606755,
+          50.6007214
+        ]
+      },
+      "id": "node/8040266630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8040832622",
+        "amenity": "townhall",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0943329,
+          50.5436199
+        ]
+      },
+      "id": "node/8040832622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8121633724",
+        "addr:housenumber": "91",
+        "addr:postcode": "08042",
+        "addr:street": "Лесі Українки вулиця",
+        "amenity": "townhall",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.687064,
+          50.3908789
+        ]
+      },
+      "id": "node/8121633724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8121633730",
+        "amenity": "townhall",
+        "name": "Староста",
+        "old_name": "Кодрянська селищна рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5593267,
+          50.5902802
+        ]
+      },
+      "id": "node/8121633730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8363679633",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2276394,
+          48.7993992
+        ]
+      },
+      "id": "node/8363679633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8369375446",
+        "addr:housenumber": "29",
+        "addr:street": "Перемоги вулиця",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.834266,
+          49.1090472
+        ]
+      },
+      "id": "node/8369375446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8489891266",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7979543,
+          49.5468921
+        ]
+      },
+      "id": "node/8489891266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8515436891",
+        "addr:housenumber": "2",
+        "addr:postcode": "08112",
+        "addr:street": "Садова вудиця",
+        "amenity": "townhall",
+        "name": "Дмитрівська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1685223,
+          50.4574911
+        ]
+      },
+      "id": "node/8515436891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8537053310",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9293027,
+          49.1097512
+        ]
+      },
+      "id": "node/8537053310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8537053312",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9507,
+          49.1213408
+        ]
+      },
+      "id": "node/8537053312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8583371752",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9526871,
+          49.0754919
+        ]
+      },
+      "id": "node/8583371752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8590408250",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8304936,
+          49.0007961
+        ]
+      },
+      "id": "node/8590408250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8593119819",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8286027,
+          49.1413104
+        ]
+      },
+      "id": "node/8593119819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8593119822",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.902672,
+          49.1579178
+        ]
+      },
+      "id": "node/8593119822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8607407168",
+        "addr:housenumber": "17",
+        "addr:postcode": "08637",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Погребська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4162379,
+          50.1403128
+        ]
+      },
+      "id": "node/8607407168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8622421301",
+        "addr:housenumber": "73",
+        "addr:postcode": "08637",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Луб'янська сільська рада",
+        "townhall:type": "village",
+        "wikidata": "Q20081663",
+        "wikipedia": "uk:Луб'янська сільська рада (Васильківський район)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4096295,
+          50.1314314
+        ]
+      },
+      "id": "node/8622421301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8626879672",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0318103,
+          48.9582672
+        ]
+      },
+      "id": "node/8626879672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8665628885",
+        "addr:housenumber": "6",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0843067,
+          49.0193941
+        ]
+      },
+      "id": "node/8665628885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8690712309",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6972187,
+          49.1651013
+        ]
+      },
+      "id": "node/8690712309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8699312763",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6646869,
+          49.0322384
+        ]
+      },
+      "id": "node/8699312763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8707463378",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6137483,
+          49.1152444
+        ]
+      },
+      "id": "node/8707463378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8722778718",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8516054,
+          49.2848464
+        ]
+      },
+      "id": "node/8722778718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8726177630",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5924809,
+          48.9608099
+        ]
+      },
+      "id": "node/8726177630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8726177665",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.628719,
+          48.9415414
+        ]
+      },
+      "id": "node/8726177665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8728255993",
+        "addr:housenumber": "7",
+        "addr:postcode": "85340-85342",
+        "addr:street": "Центральний провулок",
+        "amenity": "townhall",
+        "name": "Новоекономічна селищна рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3318138,
+          48.3249969
+        ]
+      },
+      "id": "node/8728255993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8737213759",
+        "addr:housenumber": "55",
+        "addr:postcode": "08646",
+        "addr:street": "Михайлiвська вулиця",
+        "amenity": "townhall",
+        "name": "Барахтівська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3697811,
+          50.1090854
+        ]
+      },
+      "id": "node/8737213759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8737213774",
+        "amenity": "townhall",
+        "name": "Великобугаївська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4424116,
+          50.1781921
+        ]
+      },
+      "id": "node/8737213774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8756130196",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7353351,
+          48.958786
+        ]
+      },
+      "id": "node/8756130196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8759408731",
+        "addr:housenumber": "55632",
+        "addr:street": "Тіниста, 23-А",
+        "amenity": "townhall",
+        "name": "Администрация регионального ландшафтного парка \"Приингульский\"",
+        "phone": "+380 96 933 3973;+380 93 667 4809;+380 67 512 2528;+380 63 997 2265",
+        "townhall:type": "village",
+        "website": "https://pryingul.inf.ua/",
+        "wikidata": "Q4378317",
+        "wikipedia": "ru:Приингульский (региональный ландшафтный парк)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3456628,
+          47.6753889
+        ]
+      },
+      "id": "node/8759408731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8762333494",
+        "addr:housenumber": "2",
+        "addr:postcode": "08044",
+        "addr:street": "Івана Франка вулиця",
+        "amenity": "townhall",
+        "name": "Староста",
+        "old_name": "Фасівська сільська рада",
+        "townhall:type": "village",
+        "website": "http://fasova.rada.org.ua/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8132143,
+          50.3818235
+        ]
+      },
+      "id": "node/8762333494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8762340919",
+        "addr:housenumber": "30",
+        "addr:postcode": "08045",
+        "amenity": "townhall",
+        "name": "Староста",
+        "old_name": "Людвинівська сільська рада",
+        "townhall:type": "village",
+        "website": "http://ludvynivka.rada.org.ua/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8253728,
+          50.3879666
+        ]
+      },
+      "id": "node/8762340919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8781200269",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0526075,
+          49.2275839
+        ]
+      },
+      "id": "node/8781200269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8805126638",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5277883,
+          48.957483
+        ]
+      },
+      "id": "node/8805126638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8812637566",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0521993,
+          48.9135466
+        ]
+      },
+      "id": "node/8812637566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8818750363",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9164912,
+          48.7903731
+        ]
+      },
+      "id": "node/8818750363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8832241547",
+        "addr:postcode": "07430",
+        "addr:street": "Шкільна вулиця",
+        "amenity": "townhall",
+        "name": "Руднянська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0060585,
+          50.6591277
+        ]
+      },
+      "id": "node/8832241547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8833693378",
+        "amenity": "townhall",
+        "name": "Світильнівська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1525374,
+          50.5638515
+        ]
+      },
+      "id": "node/8833693378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8851471475",
+        "amenity": "townhall",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0361995,
+          50.6473746
+        ]
+      },
+      "id": "node/8851471475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8852856791",
+        "amenity": "townhall",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8999068,
+          50.4845153
+        ]
+      },
+      "id": "node/8852856791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8855111173",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7432088,
+          49.2446205
+        ]
+      },
+      "id": "node/8855111173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8856469523",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6768454,
+          49.3120082
+        ]
+      },
+      "id": "node/8856469523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8868258543",
+        "addr:housenumber": "75",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Гостролуцька сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2839021,
+          50.4238031
+        ]
+      },
+      "id": "node/8868258543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8880884073",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4809012,
+          48.9038967
+        ]
+      },
+      "id": "node/8880884073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8880884075",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4201322,
+          48.9021231
+        ]
+      },
+      "id": "node/8880884075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8890644136",
+        "amenity": "townhall",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5277355,
+          50.2845783
+        ]
+      },
+      "id": "node/8890644136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8890891834",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4456226,
+          48.8793078
+        ]
+      },
+      "id": "node/8890891834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905145059",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4988147,
+          48.7973215
+        ]
+      },
+      "id": "node/8905145059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8909696155",
+        "addr:housenumber": "102а",
+        "addr:postcode": "17023",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Карпилівська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8224408,
+          50.9868951
+        ]
+      },
+      "id": "node/8909696155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8909816401",
+        "addr:housenumber": "51",
+        "addr:postcode": "17050",
+        "addr:street": "Слов'янська вулиця",
+        "amenity": "townhall",
+        "name": "Кіптівська сільська об'єднана територіальна громада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1550486,
+          51.0579438
+        ]
+      },
+      "id": "node/8909816401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8910707579",
+        "amenity": "townhall",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6459991,
+          51.1013422
+        ]
+      },
+      "id": "node/8910707579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8911533001",
+        "addr:housenumber": "74",
+        "addr:postcode": "17031",
+        "addr:street": "Свято-Покровська вулиця",
+        "amenity": "townhall",
+        "name": "Красилівський старостинський округ",
+        "operator": "Кіптівська об'єднана територіальна громада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1993684,
+          51.202555
+        ]
+      },
+      "id": "node/8911533001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8917641633",
+        "addr:housenumber": "64",
+        "addr:postcode": "17040",
+        "addr:street": "Братів Синицьких вулиця",
+        "amenity": "townhall",
+        "name": "Олбинський старостинський округ",
+        "operator": "Кіптівська об'єднана територіальна громада",
+        "phone": "+380 4646 38 140",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0225583,
+          51.0749229
+        ]
+      },
+      "id": "node/8917641633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8920662656",
+        "addr:housenumber": "29",
+        "addr:postcode": "17051",
+        "addr:street": "Мартиненка вулиця",
+        "amenity": "townhall",
+        "name": "Патютинський старостинський округ",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.232361,
+          51.0079057
+        ]
+      },
+      "id": "node/8920662656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8920688248",
+        "addr:housenumber": "1",
+        "addr:postcode": "17033",
+        "addr:street": "Шевченка вулиця",
+        "amenity": "townhall",
+        "name": "Підлісненський старостинський округ",
+        "operator": "Кіптівська об'єднана територіальна громада",
+        "phone": "+380 4646 37 532",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1207714,
+          51.1526492
+        ]
+      },
+      "id": "node/8920688248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8923312202",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7250528,
+          48.8000453
+        ]
+      },
+      "id": "node/8923312202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8926053310",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6267999,
+          48.7789762
+        ]
+      },
+      "id": "node/8926053310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8926813493",
+        "addr:housenumber": "18",
+        "addr:postcode": "17035",
+        "addr:street": "Наукова вулиця",
+        "amenity": "townhall",
+        "name": "Прогресівський старостинський округ",
+        "operator": "Кіптівська об’єднана територіальна громада",
+        "phone": "+380 4646 36 342",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1787075,
+          51.122704
+        ]
+      },
+      "id": "node/8926813493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8931364320",
+        "addr:housenumber": "55а",
+        "addr:postcode": "17053",
+        "addr:street": "Українська вулиця",
+        "amenity": "townhall",
+        "name": "Стависький старостинський округ",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2335136,
+          50.9789772
+        ]
+      },
+      "id": "node/8931364320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8932523677",
+        "addr:housenumber": "1",
+        "addr:postcode": "20384",
+        "addr:street": "Гагаріна вулиця",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1211822,
+          48.4839081
+        ]
+      },
+      "id": "node/8932523677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8935892861",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7537041,
+          48.7629927
+        ]
+      },
+      "id": "node/8935892861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8935892884",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6981286,
+          48.7641805
+        ]
+      },
+      "id": "node/8935892884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8942359628",
+        "addr:housenumber": "1",
+        "addr:postcode": "17037",
+        "addr:street": "30 років Перемоги вулиця",
+        "amenity": "townhall",
+        "name": "Новошляхівський старостинський округ",
+        "operator": "Кіптівська об'єднана територіальна громада",
+        "phone": "+380 4646 35 440",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3040774,
+          51.1122114
+        ]
+      },
+      "id": "node/8942359628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8942653307",
+        "addr:housenumber": "3",
+        "addr:postcode": "17005",
+        "addr:street": "Каштанова вулиця",
+        "amenity": "townhall",
+        "name": "Берлозівський старостинський округ",
+        "operator": "Козелецька об’єднана територіальна громада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1567681,
+          50.8946482
+        ]
+      },
+      "id": "node/8942653307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8942679453",
+        "addr:housenumber": "18",
+        "addr:postcode": "17003",
+        "addr:street": "Довженка вулиця",
+        "amenity": "townhall",
+        "name": "Білейківський старостинський округ",
+        "operator": "Козелецька об’єднана територіальна громада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.090129,
+          50.9421921
+        ]
+      },
+      "id": "node/8942679453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8942679496",
+        "addr:housenumber": "24",
+        "addr:postcode": "17082",
+        "addr:street": "Т.Г. Шевченка вулиця",
+        "amenity": "townhall",
+        "name": "Бригінцівський старостинський округ",
+        "operator": "Козелецька об’єднана територіальна громада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1318816,
+          50.8426112
+        ]
+      },
+      "id": "node/8942679496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8942684162",
+        "addr:housenumber": "32",
+        "addr:street": "Шевченка вулиця",
+        "amenity": "townhall",
+        "name": "Булахівський старостинський округ",
+        "operator": "Козелецька об’єднана територіальна громада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9513989,
+          50.8766375
+        ]
+      },
+      "id": "node/8942684162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8948255887",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3139024,
+          49.0623915
+        ]
+      },
+      "id": "node/8948255887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8956956593",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1917415,
+          48.8614437
+        ]
+      },
+      "id": "node/8956956593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8956956597",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.248422,
+          48.8632979
+        ]
+      },
+      "id": "node/8956956597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8963176156",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3128482,
+          48.8382729
+        ]
+      },
+      "id": "node/8963176156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8967667703",
+        "amenity": "townhall",
+        "name": "Сільська Рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7633579,
+          49.5068104
+        ]
+      },
+      "id": "node/8967667703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8971674349",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3422089,
+          49.3425833
+        ]
+      },
+      "id": "node/8971674349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8971674416",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4427794,
+          49.330362
+        ]
+      },
+      "id": "node/8971674416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8972824039",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.217022,
+          49.1695608
+        ]
+      },
+      "id": "node/8972824039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8972824047",
+        "addr:housenumber": "4",
+        "addr:postcode": "19234",
+        "addr:street": "Миру вулиця",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2278329,
+          49.146172
+        ]
+      },
+      "id": "node/8972824047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8972824061",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3575786,
+          49.1492703
+        ]
+      },
+      "id": "node/8972824061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8974783839",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3759996,
+          49.0597015
+        ]
+      },
+      "id": "node/8974783839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8977375031",
+        "addr:housenumber": "1",
+        "addr:postcode": "20123",
+        "addr:street": "Лесі Українки вулиця",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "operator": "Іваньківська громада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4352403,
+          49.0316101
+        ]
+      },
+      "id": "node/8977375031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8978116638",
+        "amenity": "townhall",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1880101,
+          50.3483986
+        ]
+      },
+      "id": "node/8978116638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8980788088",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1459681,
+          49.2989923
+        ]
+      },
+      "id": "node/8980788088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8980788108",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2686071,
+          49.3093996
+        ]
+      },
+      "id": "node/8980788108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8983422271",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3777959,
+          49.337579
+        ]
+      },
+      "id": "node/8983422271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8985382248",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3589773,
+          49.3630505
+        ]
+      },
+      "id": "node/8985382248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8985382251",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3267167,
+          49.3883641
+        ]
+      },
+      "id": "node/8985382251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8987506802",
+        "addr:housenumber": "1",
+        "addr:postcode": "08525",
+        "addr:street": "Варвари Ханенко вулиця",
+        "amenity": "townhall",
+        "name": "Оленівський старостинський округ",
+        "operator": "Фастівська громада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1222367,
+          50.1152602
+        ]
+      },
+      "id": "node/8987506802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8987685365",
+        "addr:housenumber": "1а",
+        "addr:postcode": "08642",
+        "addr:street": "Незалежності вулиця",
+        "amenity": "townhall",
+        "name": "Порадівський старостинський округ",
+        "operator": "Калинівська ОТГ",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1764708,
+          50.1348389
+        ]
+      },
+      "id": "node/8987685365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8987688758",
+        "addr:housenumber": "19",
+        "addr:postcode": "08627",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Дібрівський старостинський округ",
+        "operator": "Калинівська ОТГ",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2062379,
+          50.2017486
+        ]
+      },
+      "id": "node/8987688758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8987729024",
+        "addr:housenumber": "1а",
+        "addr:postcode": "08619",
+        "addr:street": "Сонячна вулиця",
+        "amenity": "townhall",
+        "name": "Варовицький старостинський округ",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2070323,
+          50.2722526
+        ]
+      },
+      "id": "node/8987729024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8987729030",
+        "addr:housenumber": "30а",
+        "addr:postcode": "08641",
+        "addr:street": "Свободи вулиця",
+        "amenity": "townhall",
+        "name": "Великосолтанівський старостинський округ",
+        "operator": "Калинівська ОТГ",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1949811,
+          50.1736525
+        ]
+      },
+      "id": "node/8987729030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8987913190",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2949274,
+          49.3477382
+        ]
+      },
+      "id": "node/8987913190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8992167637",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1905087,
+          49.371424
+        ]
+      },
+      "id": "node/8992167637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8998840683",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6099911,
+          49.4989886
+        ]
+      },
+      "id": "node/8998840683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9007092809",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3195167,
+          49.2171612
+        ]
+      },
+      "id": "node/9007092809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9007102042",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3421753,
+          49.1512651
+        ]
+      },
+      "id": "node/9007102042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9009999214",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7142106,
+          49.5599698
+        ]
+      },
+      "id": "node/9009999214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9020311432",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3942538,
+          49.1753021
+        ]
+      },
+      "id": "node/9020311432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9021308043",
+        "addr:city": "Вільшана",
+        "addr:housenumber": "190",
+        "addr:postcode": "19523",
+        "addr:street": "Шевченка вулиця",
+        "amenity": "townhall",
+        "name": "Вільшанська селищна рада",
+        "phone": "+380 4734 96 160",
+        "townhall:type": "village",
+        "website": "http://vilshana.gor-vlada.gov.ua/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2176722,
+          49.2170786
+        ]
+      },
+      "id": "node/9021308043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9044234216",
+        "addr:housenumber": "9",
+        "addr:street": "Миру вулиця",
+        "amenity": "townhall",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6318556,
+          50.0215559
+        ]
+      },
+      "id": "node/9044234216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9045717963",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4460571,
+          48.9905054
+        ]
+      },
+      "id": "node/9045717963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9071553651",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1345385,
+          49.4639135
+        ]
+      },
+      "id": "node/9071553651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9077699787",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0339909,
+          49.4689138
+        ]
+      },
+      "id": "node/9077699787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9080891281",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0159026,
+          49.4310835
+        ]
+      },
+      "id": "node/9080891281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9082559711",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3115868,
+          49.1256527
+        ]
+      },
+      "id": "node/9082559711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9084636952",
+        "amenity": "townhall",
+        "name": "Ссільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1059388,
+          49.4023432
+        ]
+      },
+      "id": "node/9084636952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9087926400",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3938339,
+          49.1278953
+        ]
+      },
+      "id": "node/9087926400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9087926408",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.430548,
+          49.1467362
+        ]
+      },
+      "id": "node/9087926408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9098879022",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2879662,
+          49.2108824
+        ]
+      },
+      "id": "node/9098879022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9118679429",
+        "amenity": "townhall",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5307307,
+          49.3448626
+        ]
+      },
+      "id": "node/9118679429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136061485",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5842421,
+          48.8926345
+        ]
+      },
+      "id": "node/9136061485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9139004648",
+        "amenity": "townhall",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3754631,
+          50.4025071
+        ]
+      },
+      "id": "node/9139004648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9160024783",
+        "addr:housenumber": "3",
+        "addr:postcode": "47744",
+        "addr:street": "Галицька вулиця",
+        "amenity": "townhall",
+        "full_name": "Старостинський округ сіл Скоморохи, Прошова, Смолянка і Теофілівка",
+        "name": "Сільська рада",
+        "operator": "Великогаївська ОТГ",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7203336,
+          49.4127024
+        ]
+      },
+      "id": "node/9160024783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9160024784",
+        "addr:housenumber": "3",
+        "addr:postcode": "47744",
+        "addr:street": "Галицька вулиця",
+        "amenity": "townhall",
+        "email": "cnap.vg@gmail.com",
+        "name": "Центр надання адміністративних послуг",
+        "opening_hours": "Mo-Fr 09:00-13:00; 14:00-16:00",
+        "operator": "Великогаївська ОТГ",
+        "phone": "+380 352 29 4536",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.720331,
+          49.4126671
+        ]
+      },
+      "id": "node/9160024784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9173343903",
+        "addr:housenumber": "67",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Любарецький старостинський округ",
+        "operator": "Бориспільська міська територіальна громада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1685887,
+          50.2598308
+        ]
+      },
+      "id": "node/9173343903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9273005585",
+        "addr:housenumber": "59",
+        "addr:postcode": "24600",
+        "addr:street": "Героїв України вулиця",
+        "amenity": "townhall",
+        "name": "Крижопільська селищна рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8676989,
+          48.3818703
+        ]
+      },
+      "id": "node/9273005585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9355549897",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1088576,
+          49.1756342
+        ]
+      },
+      "id": "node/9355549897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9355549902",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0554939,
+          49.253053
+        ]
+      },
+      "id": "node/9355549902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9363717287",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0464489,
+          48.671673
+        ]
+      },
+      "id": "node/9363717287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9395466080",
+        "addr:housenumber": "2А",
+        "addr:postcode": "08335",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Іванківський старостинський округ",
+        "operator": "Бориспільська міська територіальна громада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0595651,
+          50.319648
+        ]
+      },
+      "id": "node/9395466080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9411354433",
+        "addr:housenumber": "25",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Глибоцький старостинський округ",
+        "operator": "Бориспільська міська територіальна громада",
+        "phone": "+380 96 484 7597",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9385175,
+          50.2625002
+        ]
+      },
+      "id": "node/9411354433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9411354434",
+        "addr:housenumber": "76",
+        "addr:postcode": "08333",
+        "addr:street": "Гетьмана Івана Сулими вулиця",
+        "amenity": "townhall",
+        "name": "Кучаківський старостинський округ",
+        "operator": "Бориспільська міська територіальна громада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1246915,
+          50.3677446
+        ]
+      },
+      "id": "node/9411354434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9411354439",
+        "addr:housenumber": "99",
+        "addr:postcode": "08351",
+        "addr:street": "Центральна вулиця",
+        "amenity": "townhall",
+        "name": "Рогозівський старостинський округ",
+        "operator": "Бориспільська міська територіальна громада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0553247,
+          50.2333471
+        ]
+      },
+      "id": "node/9411354439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9412746198",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1104917,
+          48.6462433
+        ]
+      },
+      "id": "node/9412746198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9412939375",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.128366,
+          48.8033518
+        ]
+      },
+      "id": "node/9412939375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9412939378",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.103361,
+          48.7339529
+        ]
+      },
+      "id": "node/9412939378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9414839575",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4443666,
+          48.665239
+        ]
+      },
+      "id": "node/9414839575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9435164657",
+        "addr:housenumber": "48",
+        "addr:postcode": "08072",
+        "addr:street": "Київська вулиця",
+        "amenity": "townhall",
+        "name": "Бишівська сільська територіальна громада",
+        "townhall:type": "village",
+        "website": "https://byshiv-rada.gov.ua/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.885959,
+          50.2671439
+        ]
+      },
+      "id": "node/9435164657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9437839638",
+        "addr:housenumber": "41",
+        "addr:postcode": "47708",
+        "addr:street": "Містечко вулиця",
+        "amenity": "townhall",
+        "name": "Довжанська сільська рада",
+        "operator": "Підгороднянська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4703341,
+          49.5613825
+        ]
+      },
+      "id": "node/9437839638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9439678781",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0129648,
+          48.4972376
+        ]
+      },
+      "id": "node/9439678781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9440980935",
+        "addr:housenumber": "13",
+        "addr:postcode": "52020",
+        "addr:street": "Шкільна вулиця",
+        "amenity": "townhall",
+        "name": "Чумаківська сільська об'єднана територіальна громада",
+        "townhall:type": "village",
+        "website": "https://chumaki.otg.dp.gov.ua/ua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8713752,
+          48.6567202
+        ]
+      },
+      "id": "node/9440980935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9476751110",
+        "amenity": "townhall",
+        "name": "Сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2125696,
+          49.248204
+        ]
+      },
+      "id": "node/9476751110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9516209972",
+        "amenity": "townhall",
+        "email": "zabborol@gmail.com",
+        "name": "Заборольська сільська рада",
+        "name:en": "Zaborol village council",
+        "name:uk": "Заборольська сільська рада",
+        "phone": "+380 95 805 2265",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2358371,
+          50.7460987
+        ]
+      },
+      "id": "node/9516209972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9516539474",
+        "amenity": "townhall",
+        "name": "Липинська сільська рада",
+        "name:en": "Lypyny Village Council",
+        "name:ru": "Сельской совет",
+        "name:uk": "Липинська сільська рада",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4115647,
+          50.7640982
+        ]
+      },
+      "id": "node/9516539474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9559032822",
+        "addr:housenumber": "15",
+        "addr:postcode": "78274",
+        "addr:street": "Незалежності вулиця",
+        "amenity": "townhall",
+        "name": "Печеніжинська територіальна громада",
+        "townhall:type": "village",
+        "website": "https://pnotg.gov.ua/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8831901,
+          48.516509
+        ]
+      },
+      "id": "node/9559032822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9559032823",
+        "addr:housenumber": "15",
+        "addr:postcode": "78274",
+        "addr:street": "Незалежності вулиця",
+        "amenity": "townhall",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "ЦНАП",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8832445,
+          48.5165777
+        ]
+      },
+      "id": "node/9559032823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9623260003",
+        "amenity": "townhall",
+        "name": "Офіс СТОВ «Говтва»",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.1032886,
+          49.5815927
+        ]
+      },
+      "id": "node/9623260003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9704871930",
+        "addr:city": "Літки",
+        "addr:housenumber": "63",
+        "addr:postcode": "07411",
+        "addr:street": "Шевченка вулиця",
+        "amenity": "townhall",
+        "name": "Літківська сільська рада",
+        "townhall:type": "village",
+        "wikidata": "Q12120007",
+        "wikipedia": "uk:Літківська сільська рада (Броварський район)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7432948,
+          50.7094217
+        ]
+      },
+      "id": "node/9704871930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767077459",
+        "amenity": "townhall",
+        "name": "Староста",
+        "name:hu": "Községháza",
+        "townhall:type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8867622,
+          48.1183998
+        ]
+      },
+      "id": "node/9767077459"
+    }
+  ]
+}
